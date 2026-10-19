@@ -1,0 +1,4 @@
+// @forward './editor';
+@use './editor';
+
+@include editor.editor-style;

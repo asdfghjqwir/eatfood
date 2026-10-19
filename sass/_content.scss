@@ -1,0 +1,5 @@
+@use './editor';
+
+.content {
+  @include editor.editor-style;
+}
