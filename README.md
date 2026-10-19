@@ -21,12 +21,10 @@ WordPressのテーマを編集して作り、FTPサーバーにアップロー�
 ## 使用技術
 
 WordPress / PHP / HTML / CSS / JavaScript
-【使ったテーマ・プラグインがあれば書く】
 FTPクライアントでサーバーにアップロードして公開しました。
 
 ## 学んだこと
-
-- WordPressのテーマの構造）
+- WordPressのテーマの構造
 - PHPによるテーマのカスタマイズ
 - FTPを使ったサーバーへの公開手順
 
